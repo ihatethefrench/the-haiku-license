@@ -1,5 +1,5 @@
 # The Haiku License
 
-Achieves with little word count
+Achieves with little word count,
 
-What some do with more
+What some do with more.
